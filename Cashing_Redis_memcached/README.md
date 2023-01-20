@@ -39,7 +39,7 @@
 
 
 
-[Задание 2](https://github.com/PakhomovV/HomeWorck_Data-storage-and-transmission-systems/blob/master/Задание2.png)
+[Задание 2](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/Cashing_Redis_memcached/Задание2.png)
 
 
 
@@ -47,12 +47,12 @@
 
 ### Задание 3
 
-[Задание 3](https://github.com/PakhomovV/HomeWorck_Data-storage-and-transmission-systems/blob/master/Задание3.png)
+[Задание 3](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/Cashing_Redis_memcached/Задание3.png)
 
 
 ### Задание 4
 
-[Задание 4](https://github.com/PakhomovV/HomeWorck_Data-storage-and-transmission-systems/blob/master/Задание4.png)
+[Задание 4](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/Cashing_Redis_memcached/Задание4.png)
 
 ---
 
