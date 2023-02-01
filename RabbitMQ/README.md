@@ -32,7 +32,9 @@
 ### Задание 2
 
 ![Задание 2.1](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_2_1.png)`
+---
 ![Задание 2.2](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_2_2.png)`
+
 
 ---
 
@@ -40,11 +42,17 @@
 ### Задание 3
 
 ![Задание 3.1](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_1.png)`
+
 ![Задание 3.2](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_2.png)`
+
 ![Задание 3.3](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_3.png)`
+
 ![Задание 3.4](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_4.png)`
+
 ![Задание 3.5](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_5.png)`
+
 ![Задание 3.6](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_6.png)`
+
 ![Задание 3.7](https://github.com/PakhomovV/Data-storage-and-transmission-systems/blob/master/RabbitMQ/Задание_3_7.png)`
 
 
